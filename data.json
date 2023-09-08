@@ -1,8 +1,10 @@
 {
   "users": [
     {
-      "username": "ivana",
-      "password": "martina"
+      "username": "a",
+      "email": "a@a.com",
+      "password": "$2a$10$pUL.emjaDUGfWSJNeO/jLOsOoxWCiusdRmGAABhNMtolEdCDG/Rcq",
+      "id": 2
     }
   ],
   "blogs": [
