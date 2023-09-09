@@ -422,7 +422,7 @@
       "answers": [
         { "answerText": "I look taller than I am", "id": 1 },
         { "answerText": "I look slightly taller", "id": 2 },
-        { "answerText": "I look my hight", "id": 3 },
+        { "answerText": "I look my height", "id": 3 },
         { "answerText": "I look slightly shorter", "id": 4 },
         { "answerText": "I look very small", "id": 5 }
       ]
@@ -443,8 +443,8 @@
         { "answerText": "Narrow and Elongated", "id": 1 },
         { "answerText": "Broad and Elongated", "id": 2 },
         { "answerText": "Moderate", "id": 3 },
-        { "answerText": "Short in proportion to your hight", "id": 4 },
-        { "answerText": "Very short in proportion to your hight", "id": 5 }
+        { "answerText": "Short in proportion to your height", "id": 4 },
+        { "answerText": "Very short in proportion to your height", "id": 5 }
       ]
     },
     {
